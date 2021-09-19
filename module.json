@@ -1,0 +1,18 @@
+{
+	"disableAutoUpdate": false,
+	"name": "tyfpleave",
+	"author": "Snug",
+	"description": "Automatically leave party after typing a configurable message",
+	"version": "1",
+	"donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
+	"options": {
+		"guiName": "tyfpleave",
+		"niceName": "tyfpleave",
+		"settingsVersion": 1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "config_generator.js"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Snugglez/tyfpleave/main/"
+	]
+}

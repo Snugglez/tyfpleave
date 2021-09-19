@@ -1,0 +1,11 @@
+{
+	"files": {
+		"config_generator.js": "b364d7b3c71f32d7e9b14738d5927ecdd9dd00cde063163b6028a55f0e05e0f7",
+		"index.js": "a87a8cf9ef5d12b9f4afacc36fe5b65bd5630f80243e461a6bfca386659ca2a8",
+		"module.json": "ecc388f90f6b8510c2ab68972897c33d13140e56e936e82b38cfe6712779f964"
+	},
+	"defs": {
+		"S_DESPAWN_BUILD_OBJECT": 2,
+		"S_SPAWN_BUILD_OBJECT": 2
+	}
+}
