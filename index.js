@@ -1,5 +1,5 @@
 module.exports = function reee(d) {
-  d.hook('S_CHAT', 4, (e) => {
+  d.hook('S_CHAT', '*', (e) => {
     if (d.game.me.is(e.gameId) && e.message.includes(d.settings.message) && d.settings.enabled) {
       setTimeout(() => { d.send('C_LEAVE_PARTY', 1) }, d.settings.delay)
     }

@@ -2,11 +2,7 @@
 	"files": {
 		"README.md": "dbfd83f94ac2e950ade7a6ff2009ea6e933e4aca60799d9936cae61a59f066dc",
 		"config_generator.js": "978919dc301a829859b9cc3247b314ec8d2891bfe3afa5cd8bf8afdb4acbd0f3",
-		"index.js": "ba811ee51ebe730711892894967b65f9bbd85e3569d568294360f20970cbad1a",
+		"index.js": "75f13e28c4f30d460bacfc3f542c96760859d90d4db8dc73723f9b163d197fde",
 		"module.json": "c689bd266e2c07b870aaf04079fe8b5314c0830d187082677b53dc33f7b78694"
-	},
-	"defs": {
-		"C_LEAVE_PARTY": 1,
-		"S_CHAT": 4
 	}
 }
